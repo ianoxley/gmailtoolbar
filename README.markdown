@@ -4,4 +4,4 @@ This is a simple Greasemonkey script that uses CSS to give the toolbar that appe
 
 **NB This user script is recommended for use with Google Chrome rather than Firefox due to different HTML being rendered for each browser. (I haven't tested it yet with other browsers that support Greasemonkey / user scripts e.g. Opera). Firefox users can use this instead to get the same effect: [https://github.com/ianoxley/userContent](https://github.com/ianoxley/userContent)**
 
-*The background color applied to the toolbar <div> tag will depend on any GMail Theme you have enabled. I currently use the Silver Lining theme, so if you're using a different GMail Theme YMMV. Changing the CSS to the colour of your choice shouldn't be too much of a problem though.*
+*The background color applied to the toolbar <div> tag will depend on any GMail Theme you have enabled. I currently use the Classic theme and the CSS applied is based on that i.e. a white-ish background colour. If you're using a different GMail Theme YMMV. Changing the CSS to the colour of your choice should be fairly straight forwards though :)*
